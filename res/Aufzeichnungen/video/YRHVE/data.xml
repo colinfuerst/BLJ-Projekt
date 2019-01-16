@@ -1,2 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Files xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+<Files xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <File Filename="4_2019-01-16_09-21-36.mp4" SizeBytes="42197" CreatedDateTicks="636832272972949373" MaxAlarm="0" DurationSeconds="1" IsTimelapse="false" AlertData="0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000" TriggerLevel="80" />
+</Files>
